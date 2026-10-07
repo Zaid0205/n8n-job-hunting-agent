@@ -167,7 +167,7 @@ n8n-job-hunting-agent/
 └── screenshots/
     ├── workflow.png       ← Full workflow canvas
     ├── email_sample.png   ← Sample email received
-    └── resume_sample.png  ← Sample tailored PDF resume
+    └── resume_sample.pdf  ← Sample tailored PDF resume
 ```
 
 ---
